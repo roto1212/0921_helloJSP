@@ -11,6 +11,5 @@ Hello JSP<br/>
 <hr/>
 good dyno<br/>
     
-    lecture beyong sin
 </body>
 </html>
