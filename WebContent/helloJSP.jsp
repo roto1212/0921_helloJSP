@@ -9,7 +9,7 @@
 <body>
 Hello JSP<br/>
 <hr/>
-good dyno<br/>
+
     
 </body>
 </html>
