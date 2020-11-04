@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello JSP
+Hello JSP<br/>
+<hr/>
+good dyno
 </body>
 </html>
